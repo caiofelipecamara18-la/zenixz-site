@@ -1,4 +1,6 @@
-zenixz-site Site estático pronto para GitHub Pages.
+# ZENIXZ — Site
+
+Site estático pronto para GitHub Pages.
 
 Arquivos:
 - index.html
